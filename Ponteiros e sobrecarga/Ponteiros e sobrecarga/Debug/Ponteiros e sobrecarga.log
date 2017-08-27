@@ -1,0 +1,136 @@
+﻿  Ponteirosesobrecarga.cpp
+c:\users\rafa\google drive\linguagens de programação\c-with-classes\ponteiros e sobrecarga\ponteiros e sobrecarga\ponteirosesobrecarga.cpp(5): error C2059: erro de sintaxe: '/'
+c:\users\rafa\google drive\linguagens de programação\c-with-classes\ponteiros e sobrecarga\ponteiros e sobrecarga\ponteirosesobrecarga.cpp(5): error C3872: '0xa7': este caractere não é permitido em um identificador
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\yvals.h(626): error C2143: erro de sintaxe: ';' ausente antes de '{'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\yvals.h(626): error C2447: '{': faltando cabeçalho de função (lista formal de estilo antigo?)
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xutility(153): error C2065: '_Lockit': identificador não declarado
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xutility(153): error C2146: erro de sintaxe: ';' ausente antes do identificador '_Lock'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xutility(153): error C3861: '_Lock': identificador não encontrado
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xutility(164): error C2065: '_Lockit': identificador não declarado
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xutility(164): error C2146: erro de sintaxe: ';' ausente antes do identificador '_Lock'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xutility(164): error C3861: '_Lock': identificador não encontrado
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xutility(174): error C2065: '_Lockit': identificador não declarado
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xutility(174): error C2146: erro de sintaxe: ';' ausente antes do identificador '_Lock'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xutility(174): error C3861: '_Lock': identificador não encontrado
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xutility(185): error C2065: '_Lockit': identificador não declarado
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xutility(185): error C2146: erro de sintaxe: ';' ausente antes do identificador '_Lock'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xutility(185): error C3861: '_Lock': identificador não encontrado
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xutility(243): error C2065: '_Lockit': identificador não declarado
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xutility(243): error C2146: erro de sintaxe: ';' ausente antes do identificador '_Lock'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xutility(243): error C3861: '_Lock': identificador não encontrado
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xutility(256): error C2065: '_Lockit': identificador não declarado
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xutility(256): error C2146: erro de sintaxe: ';' ausente antes do identificador '_Lock'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xutility(256): error C3861: '_Lock': identificador não encontrado
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocinfo(224): error C3646: '_Lock': especificador de substituição desconhecido
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocinfo(224): error C4430: faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocinfo(75): error C2614: 'std::_Locinfo': inicialização de membro inválida: '_Lock' não é uma base ou membro
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocinfo(86): error C2614: 'std::_Locinfo': inicialização de membro inválida: '_Lock' não é uma base ou membro
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(457): error C2460: 'std::locale::_Uninitialized': usa 'std::locale', que está sendo definido
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(98): note: consulte a declaração de 'std::locale'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(292): error C2146: erro de sintaxe: ';' ausente antes do identificador 'locale'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(292): error C2061: erro de sintaxe: identificador 'locale'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(297): error C2065: '_Right': identificador não declarado
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(292): error C2228: esquerda de '._Ptr' deve possuir class/struct/union
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(292): note: tipo é 'unknown-type'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(292): error C4430: faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(298): error C2448: 'std::_Ptr': inicializador function-style parece ser uma definição de função
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(302): error C2059: erro de sintaxe: ')'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(303): error C3861: '_Init': identificador não encontrado
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(303): error C4430: faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(303): error C2374: 'std::_Ptr': redefinição; várias inicializações
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(292): note: consulte a declaração de 'std::_Ptr'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(304): error C2448: 'std::_Ptr': inicializador function-style parece ser uma definição de função
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(308): error C2059: erro de sintaxe: 'const'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(310): error C2653: '_Locimp': não é um nome de classe ou de namespace
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(310): error C2065: '_Loc': identificador não declarado
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(310): error C2228: esquerda de '._Ptr' deve possuir class/struct/union
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(310): note: tipo é 'unknown-type'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(310): error C3861: '_New_Locimp': identificador não encontrado
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(310): error C4430: faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(310): error C2374: 'std::_Ptr': redefinição; várias inicializações
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(292): note: consulte a declaração de 'std::_Ptr'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(311): error C2448: 'std::_Ptr': inicializador function-style parece ser uma definição de função
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(332): error C2059: erro de sintaxe: 'private'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(334): error C2061: erro de sintaxe: identificador 'category'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(364): error C2059: erro de sintaxe: 'public'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(365): error C2059: erro de sintaxe: 'const'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(367): error C2653: '_Locimp': não é um nome de classe ou de namespace
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(367): error C3861: '_New_Locimp': identificador não encontrado
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(367): error C4430: faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(367): error C2374: 'std::_Ptr': redefinição; várias inicializações
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(292): note: consulte a declaração de 'std::_Ptr'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(368): error C2448: 'std::_Ptr': inicializador function-style parece ser uma definição de função
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(376): error C2059: erro de sintaxe: 'const'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(378): error C2653: '_Locimp': não é um nome de classe ou de namespace
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(378): error C2065: '_Loc': identificador não declarado
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(378): error C2228: esquerda de '._Ptr' deve possuir class/struct/union
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(378): note: tipo é 'unknown-type'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(378): error C3861: '_New_Locimp': identificador não encontrado
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(378): error C4430: faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(378): error C2374: 'std::_Ptr': redefinição; várias inicializações
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(292): note: consulte a declaração de 'std::_Ptr'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(379): error C2448: 'std::_Ptr': inicializador function-style parece ser uma definição de função
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(387): error C2059: erro de sintaxe: 'const'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(389): error C2653: '_Locimp': não é um nome de classe ou de namespace
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(389): error C3861: '_New_Locimp': identificador não encontrado
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(389): error C4430: faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(389): error C2374: 'std::_Ptr': redefinição; várias inicializações
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(292): note: consulte a declaração de 'std::_Ptr'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(390): error C2448: 'std::_Ptr': inicializador function-style parece ser uma definição de função
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(394): error C2059: erro de sintaxe: 'const'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(396): error C2653: '_Locimp': não é um nome de classe ou de namespace
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(396): error C2065: '_Loc': identificador não declarado
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(396): error C2228: esquerda de '._Ptr' deve possuir class/struct/union
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(396): note: tipo é 'unknown-type'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(396): error C3861: '_New_Locimp': identificador não encontrado
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(396): error C4430: faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(396): error C2374: 'std::_Ptr': redefinição; várias inicializações
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(292): note: consulte a declaração de 'std::_Ptr'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(397): error C2448: 'std::_Ptr': inicializador function-style parece ser uma definição de função
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(402): error C2588: '::~locale': destruidor global inválido
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(403): error C4430: faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(405): error C2227: esquerda de '->_Decref' deve apontar para tipo class/struct/union/generic
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(405): note: tipo é 'int'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(406): warning C4508: 'std::locale': função deve retornar um valor; tipo de retorno 'void' assumido
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(408): error C2143: erro de sintaxe: ';' ausente antes de '&'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(408): error C4430: faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(408): error C2373: 'std::locale': redefinição; modificadores de tipo diferentes
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(402): note: consulte a declaração de 'std::locale'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(408): error C2143: erro de sintaxe: ',' ausente antes de '&'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(409): error C4430: faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(409): error C2801: 'std::operator =' deve ser um membro não static
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(409): error C2059: erro de sintaxe: '{'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(409): error C2143: erro de sintaxe: ';' ausente antes de '{'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(409): error C2447: '{': faltando cabeçalho de função (lista formal de estilo antigo?)
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(420): error C2270: 'name': modificadores não permitidos em funções não membro
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(421): error C2227: esquerda de '->_Name' deve apontar para tipo class/struct/union/generic
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(421): note: tipo é 'int'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(421): error C2228: esquerda de '.c_str' deve possuir class/struct/union
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(425): error C2270: 'c_str': modificadores não permitidos em funções não membro
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(426): error C2227: esquerda de '->_Name' deve apontar para tipo class/struct/union/generic
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(426): note: tipo é 'int'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(426): error C2228: esquerda de '.c_str' deve possuir class/struct/union
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(429): error C4430: faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(429): error C2143: erro de sintaxe: ';' ausente antes de '*'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(430): error C2270: '_Getfacet': modificadores não permitidos em funções não membro
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(430): error C4430: faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(430): error C2059: erro de sintaxe: '{'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(430): error C2143: erro de sintaxe: ';' ausente antes de '{'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(430): error C2447: '{': faltando cabeçalho de função (lista formal de estilo antigo?)
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(444): error C4430: faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(444): error C2143: erro de sintaxe: ',' ausente antes de '&'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(445): error C2270: '==': modificadores não permitidos em funções não membro
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(445): error C2803: 'operator ==' deve possuir pelo menos um parâmetro formal de tipo de classe
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(445): error C2805: 'operator ==' binário possui poucos parâmetros
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(446): error C2065: '_Loc': identificador não declarado
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(447): error C2228: esquerda de '._Ptr' deve possuir class/struct/union
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(447): note: tipo é 'unknown-type'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(448): error C2065: '_Loc': identificador não declarado
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(448): error C2228: esquerda de '.name' deve possuir class/struct/union
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(448): note: tipo é 'unknown-type'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(451): error C4430: faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(451): error C2143: erro de sintaxe: ',' ausente antes de '&'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(452): error C2270: '!=': modificadores não permitidos em funções não membro
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(452): error C2803: 'operator !=' deve possuir pelo menos um parâmetro formal de tipo de classe
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(452): error C2805: 'operator !=' binário possui poucos parâmetros
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\xlocale(452): fatal error C1003: contador de erros excede 100; interrompendo compilação
