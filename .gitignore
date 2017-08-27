@@ -27,6 +27,8 @@
 *.lib
 
 # Executables
-*.exe
 *.out
 *.app
+*.db
+*.ipch
+Array de objetos/.vs/Array de objetos/v15/.suo
