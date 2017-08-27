@@ -1,1 +1,7 @@
 Array de objetos/.vs/Array de objetos/v15/.suo
+*.ilk
+*.pdb
+*.db
+ContadorJogo/.vs/ContadorJogo/v15/.suo
+*.pdb
+*.opendb
