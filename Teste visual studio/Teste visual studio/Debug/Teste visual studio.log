@@ -1,0 +1,4 @@
+﻿  Testevisualstudio.cpp
+c:\users\rafa\google drive\linguagens de programação\c++\teste visual studio\teste visual studio\testevisualstudio.cpp(15): error C2380: tipo(s) precedendo 'conta' (construtor com tipo de retorno, ou redefinição inválida do nome da classe atual?)
+c:\users\rafa\google drive\linguagens de programação\c++\teste visual studio\teste visual studio\testevisualstudio.cpp(47): error C3861: 'getche': identificador não encontrado
+c:\users\rafa\google drive\linguagens de programação\c++\teste visual studio\teste visual studio\testevisualstudio.cpp(48): error C2050: expressão de switch não integral
