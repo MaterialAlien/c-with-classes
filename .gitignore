@@ -19,3 +19,21 @@ Retangulo/.vs/Retangulo/v15/.suo
 Retangulo/.vs/Retangulo/v15/.suo
 *.db
 Retangulo/.vs/Retangulo/v15/.suo
+*.cbp
+*.depend
+*.layout
+*.o
+Composição de objetos/.vs/Composição de projetos/v15/.suo
+ContadorJogo/.vs/ContadorJogo/v15/.suo
+*.db
+Friends/.vs/Friends/v15/.suo
+Objetos aninhados/.vs/Objetos aninhados/v15/.suo
+*.db
+String em c++/.vs/String em c++/v15/.suo
+Sobrecarga e Template de funções/.vs/Sobrecarga e Template de funções/v15/.suo
+*.codeanalysisast
+*.xml
+*.codeanalysis
+*.lastcodeanalysissucceeded
+Sobrecarga de operadores/.vs/Sobrecarga de operadores/v15/.suo
+Salario/.vs/Salario/v15/.suo
